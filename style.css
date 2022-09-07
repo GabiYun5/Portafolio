@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+@font-face { font-family: "Titulos"; src: url(GOUDYSTO.TTF);}
+
+h1{
+    font-family: "Titulos";
+}
+.linea{
+    height: 6px;
+    width: 60px;
+    background-color: bisque;
+    margin: 8px auto;
+}
