@@ -13,3 +13,6 @@ h1{
     background-color: bisque;
     margin: 8px auto;
 }
+.carousel-inner img{
+    margin:0 auto;
+}
